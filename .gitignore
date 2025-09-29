@@ -1,0 +1,8 @@
+# Lua
+*.luac
+*.out
+*.log
+
+# IDEs
+.vscode/
+.idea/
